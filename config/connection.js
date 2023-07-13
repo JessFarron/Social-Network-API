@@ -7,3 +7,7 @@ connect(connectionString);
 
 module.exports = connection;
 
+/* connect(connectionString, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  }); */
