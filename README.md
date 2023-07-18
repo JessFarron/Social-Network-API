@@ -2,10 +2,10 @@
 
 ## Table of Contents
 * [Description](#description)
-* [Installation and Setup](#installation_and_setup)
+* [Installation and Setup](#installation-and-setup)
 * [Usage](#usage)
-* [Walkthrough Video](#walkthrough_video)  
-* [API routes](#api_routes)
+* [Walkthrough Video](#walkthrough-video)  
+* [API routes](#api-routes)
  
  ## Description
  This API provides the backend functionality for a social network web application. It allows users to share their thoughts, react to friends' thoughts, and create a friend list. The API is built using Express.js for routing, MongoDB as the database, and the Mongoose ODM. You can also choose to use a JavaScript date library or the native JavaScript Date object to handle timestamps.
