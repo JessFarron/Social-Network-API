@@ -64,5 +64,5 @@ Request json body example:
 Please refer to the walkthrough video for a practical demonstration of these API routes.
 
 ## Walkthrough Video
-Please watch the following video to see the Social Network API in action and to understand how to use its routes effectively: [Uploading Social Media API Mongo.webm…]()
+Please watch the following video to see the Social Network API in action and to understand how to use its routes effectively: https://drive.google.com/file/d/1EtEOgha1-8tcJ_Jwh3HSpNEHoQmjHRmE/view [Uploading Social Media API Mongo.webm…]()
 
